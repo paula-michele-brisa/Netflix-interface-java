@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Interface Netflix</string>
-    <string name="series">Séries</string>
-    <string name="filmes">Filmes</string>
-    <string name="MinhaLista">Minha Lista</string>
+    <string name="txtseries">Séries</string>
+    <string name="txtfilmes">Filmes</string>
+    <string name="txtMinhaLista">Minha Lista</string>
     <string name="contentDescriptionLogo">Imagem em cor vermelha da Netflix</string>
     <string name="contentDescriptionImagemPeakBlinders">Imagem com o nome Peak Blinders</string>
+    <string name="txtviolencia">Violência</string>
+    <string name="txtEmpolgante">Empolgante</string>
+    <string name="txtSinistro">Sinistro</string>
 </resources>
