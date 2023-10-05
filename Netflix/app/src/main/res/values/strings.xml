@@ -10,4 +10,14 @@
     <string name="txtSinistro">Sinistro</string>
     <string name="btnAssistir">ASSISTIR</string>
     <string name="btnDetalhes">DETALHES</string>
+    <string name="txtLancamento">Lançamentos</string>
+    <string name="contentDescriptionBtnMinhaLista">Botão com icone em formato de cruz e texto Minha Lista</string>
+    <string name="contentDescriptionBtnAssistir">Botão com icone em formato de trianfulo e texto Assistir</string>
+    <string name="contentDescriptionBtnDetalhes">Botão com icone em formato de circulo com sinal de exclamação invertido e texto Detalhes</string>
+    <string name="contentDescriptionImagemPlanoDeFundo">Imagem de pessoas armadas com vestimenta do século XX</string>
+    <string name="contentDescriptionImagem1">Imagem de mulher</string>
+    <string name="contentDescriptionImagem2">Animação</string>
+    <string name="contentDescriptionImagem3">Série</string>
+
+
 </resources>
