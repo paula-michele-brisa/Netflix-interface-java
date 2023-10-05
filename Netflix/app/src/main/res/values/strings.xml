@@ -8,4 +8,6 @@
     <string name="txtviolencia">Violência</string>
     <string name="txtEmpolgante">Empolgante</string>
     <string name="txtSinistro">Sinistro</string>
+    <string name="btnAssistir">ASSISTIR</string>
+    <string name="btnDetalhes">DETALHES</string>
 </resources>
